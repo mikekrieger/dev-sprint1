@@ -1,3 +1,18 @@
 *** Cut and paste the for loop here ***
 
+1) A route is a decorator that is used to register a view function for a given URL rule. You specify a routing within the document and then you define and list what the route returns.
+
+2) index
+
+3) hello
+
+4) 
+@app.route("/world")
+def hellow():
+    return "Hello, World"
+
+
+5) No, because the app needs a main function.
+
+
 *** What is the for loop doing? ***
